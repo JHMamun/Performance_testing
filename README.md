@@ -42,3 +42,5 @@ Performance testing of different classifiers and methodologies
          </tr>
   </table>
 <p>Here 23 spam were misclassified as non-spam and 6 non-spam were missclassified as spam</p>
+<h1>Results of RNN-long short term memory(LSTM)</h1>
+<p>works to be done</p>
