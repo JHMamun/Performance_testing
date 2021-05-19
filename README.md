@@ -1,8 +1,8 @@
 # Performance_testing_NB_SVM through SPAM EMAIL DETECTION
 Performance testing of different classifiers and methodologies
 <h1>Results of Naive Bayes Classifier</h1>
-<p>Training accuracy: 0.9971466198419666</p>
-<p>Testing accuracy: 0.9920983318700615</p>
+<p>Training accuracy: 0.9971466198419666 or 99.71%</p>
+<p>Testing accuracy: 0.9920983318700615 or 99.21%</p>
       <table border = "1">
          <tr>
             <th>\</th>
@@ -21,8 +21,8 @@ Performance testing of different classifiers and methodologies
          </tr>
   </table>
   <h1>Results of Support Vector Machine Classifier</h1>
-  <p>Training accuracy: 1.000000</p>
-<p>Testing accuracy: 0.974539</p>
+  <p>Training accuracy: 1.000000 or 1</p>
+<p>Testing accuracy: 0.974539 or 97.45</p>
 <table border = "1">
          <tr>
             <th>\</th>
