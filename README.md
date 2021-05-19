@@ -21,8 +21,8 @@ Performance testing of different classifiers and methodologies
          </tr>
   </table>
   <h1>Results of Support Vector Machine Classifier</h1>
-  <p>Training accuracy: 1.000000 or 1</p>
-<p>Testing accuracy: 0.974539 or 97.45</p>
+  <p>Training accuracy: 1.000000 or 100%</p>
+<p>Testing accuracy: 0.974539 or 97.45%</p>
 <table border = "1">
          <tr>
             <th>\</th>
