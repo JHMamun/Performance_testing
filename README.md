@@ -20,8 +20,9 @@ Performance testing of different classifiers and methodologies
             <td>268</td>
          </tr>
   </table>
-  <h1>Results of Support Vector Machine Classifier</h1>
-  <p>Training accuracy: 1.000000 or 100%</p>
+<p>Here 1 spam were misclassified as non-spam and 8 non-spam were missclassified as spam</p>
+<h1>Results of Support Vector Machine Classifier</h1>
+<p>Training accuracy: 1.000000 or 100%</p>
 <p>Testing accuracy: 0.974539 or 97.45%</p>
 <table border = "1">
          <tr>
@@ -40,3 +41,4 @@ Performance testing of different classifiers and methodologies
             <td>246</td>
          </tr>
   </table>
+<p>Here 23 spam were misclassified as non-spam and 6 non-spam were missclassified as spam</p>
